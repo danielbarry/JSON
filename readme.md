@@ -8,6 +8,7 @@ would be good), but to be understandable.
 
 ## TODO
 
+* [ ] Add usage license
 * [ ] Automatically run tests upon a single build command
 * [ ] Profile the performance of the parsers
 * [ ] Compare against existing parsers
