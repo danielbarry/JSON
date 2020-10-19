@@ -15,6 +15,10 @@
  * json.hh
  *
  * A single file JSON parser.
+ *
+ * @author B[]
+ * @version 1.0
+ * @since 2020-10-20
  **/
 class JSON{
   private:

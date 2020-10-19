@@ -6,6 +6,10 @@ import java.util.Scanner;
  * JSON.java
  *
  * A single file JSON parser.
+ *
+ * @author B[]
+ * @version 1.0
+ * @since 2020-10-20
  **/
 public class JSON{
   private static final int TYPE_OBJ = 1;
